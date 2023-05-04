@@ -4,7 +4,7 @@
 - I have a posgrade in MRI diagnosis
 
 - 👀 I’m interested in bioinformatic and Python programming
-- 🌱 I’m currently learning Python, Linux, R (master in Bioinformatics)
+- 🌱 I’m currently learning Python, Shell Scripting, Linux (master in Bioinformatics)
 - 💞️ I’m looking to collaborate on bioinformatic project or Python en general
 - 📫 How to reach me: thalitasanches25@gmail.com
 
